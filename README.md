@@ -41,7 +41,7 @@ To run this project, you need the following:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/StoreManagementSystem.git
+   git clone https://github.com/yourusername/factory-managment.git
    ```
 
 2. Open the project in your preferred IDE.
