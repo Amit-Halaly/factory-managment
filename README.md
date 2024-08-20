@@ -55,7 +55,7 @@ To run this project, you need the following:
 1. Run the application:
 
    ```bash
-   java -jar StoreManagementSystem.jar
+   java -jar factory-managment.jar
    ```
 
 2. Follow the on-screen prompts to manage your store’s inventory and orders.
